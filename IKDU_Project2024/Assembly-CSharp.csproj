@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MyFirstVariableAndMethod.cs" />
+    <Compile Include="Assets\Scripts\Weekly Planner.cs" />
     <Compile Include="Assets\Scripts\AgeChanger.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -26,7 +26,6 @@ public class AgeChanger : MonoBehaviour
     //a function, returning my current age + 1.
     int futureAge(int n) 
     {
-        
         return (currentAge + 1);
     }
 
